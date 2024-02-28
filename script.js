@@ -10,7 +10,7 @@ average, every 9 minutes" (keep in mind that a game has 90 minutes)
 4. Loop over 'gameEvents' and log each element to the console, marking 
 whether it's in the first half or second half (after 45 min) of the game, like this:
 [FIRST HALF] 17: ⚽ GOAL
-
+a
 */
 "use strict";
 const gameEvents = new Map([
